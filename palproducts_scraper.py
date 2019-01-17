@@ -20,8 +20,6 @@ import datetime
 from chromedriverpath import CHROMEDRIVER_PATH
 
 
-os.chdir(r'C:\Users\janit\Documents\GIT\pal_scraper')
-
 
 # ADD CHROME DRIVER'S PATH  
 chrome_driver = CHROMEDRIVER_PATH
